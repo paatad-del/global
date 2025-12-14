@@ -1,0 +1,1085 @@
+/* GLOBAL AXIS (3) 1 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: -145px;
+top: -150px;
+
+background: url(GLOBAL AXIS (3));
+
+
+/* Rectangle 253 */
+
+position: absolute;
+width: 1134px;
+height: 600px;
+right: 0px;
+top: 80px;
+
+background: rgba(19, 32, 25, 0.4);
+backdrop-filter: blur(10px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 4px;
+
+
+/* Driven by Quality Powered by Global Axis */
+
+position: absolute;
+width: 262px;
+height: 44px;
+left: calc(50% - 262px/2 + 321px);
+top: 555px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+text-align: center;
+
+color: #F4D74B;
+
+
+
+/* логотип */
+
+position: absolute;
+width: 205px;
+height: 223.9px;
+left: 1151px;
+top: 133px;
+
+
+
+/* Group 67 */
+
+position: absolute;
+width: 185.12px;
+height: 186.09px;
+left: 1169.41px;
+top: 153.92px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 137.06px;
+height: 139.27px;
+left: calc(50% - 137.06px/2 + 302.43px);
+top: 177.39px;
+
+background: url(pustaa-sohranennaa-komnata);
+
+
+/* Vector */
+
+position: absolute;
+width: 185.12px;
+height: 186.09px;
+left: calc(50% - 185.12px/2 + 301.97px);
+top: 153.92px;
+
+background: url(pustaa-sohranennaa-komnata);
+
+
+/* Group 66 */
+
+position: absolute;
+width: 43.46px;
+height: 43.46px;
+left: 1285.54px;
+top: 160.36px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 43.46px;
+height: 43.46px;
+left: calc(50% - 43.46px/2 + 347.27px);
+top: 160.36px;
+
+background: url(pustaa-sohranennaa-komnata);
+
+
+/* Vector */
+
+position: absolute;
+width: 31.65px;
+height: 34.3px;
+left: calc(50% - 31.65px/2 + 343.01px);
+top: 164.1px;
+
+background: url(pustaa-sohranennaa-komnata);
+
+
+/* Group 65 */
+
+position: absolute;
+width: 67.51px;
+height: 67.51px;
+left: 1288.49px;
+top: 256.85px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 67.51px;
+height: 67.51px;
+left: calc(50% - 67.51px/2 + 362.24px);
+top: 256.85px;
+
+background: url(pustaa-sohranennaa-komnata);
+
+
+/* Vector */
+
+position: absolute;
+width: 56.45px;
+height: 58.74px;
+left: calc(50% - 56.45px/2 + 363.89px);
+top: 263.51px;
+
+background: url(pustaa-sohranennaa-komnata);
+
+
+/* Group 64 */
+
+position: absolute;
+width: 63.83px;
+height: 63.83px;
+left: 1151px;
+top: 200.87px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 63.83px;
+height: 63.83px;
+left: calc(50% - 63.83px/2 + 222.92px);
+top: 200.87px;
+
+background: url(pustaa-sohranennaa-komnata);
+
+
+/* Vector */
+
+position: absolute;
+width: 40.27px;
+height: 54.96px;
+left: calc(50% - 40.27px/2 + 222.37px);
+top: 207.23px;
+
+background: url(pustaa-sohranennaa-komnata);
+
+
+/* Vector */
+
+position: absolute;
+width: 67.27px;
+height: 223.9px;
+left: calc(50% - 67.27px/2 + 300.99px);
+top: 133px;
+
+background: url(pustaa-sohranennaa-komnata);
+
+
+/* GLOBAL TRADING AXIS */
+
+position: absolute;
+width: 508px;
+height: 168px;
+left: calc(50% - 508px/2 + 315px);
+top: 367px;
+
+font-family: 'Prompt';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 120%;
+/* or 84px */
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #F4D74B;
+
+
+
+/* Frame 79 */
+
+position: absolute;
+width: 160px;
+height: 350px;
+left: calc(50% - 160px/2 + 853px);
+top: 170px;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 134px;
+height: 350px;
+left: 13px;
+top: 0px;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 101px;
+height: 20px;
+left: 33px;
+top: 0px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* Product */
+
+position: absolute;
+width: 87px;
+height: 20px;
+left: 47px;
+top: 41px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* Export Markets */
+
+position: absolute;
+width: 167px;
+height: 20px;
+left: -33px;
+top: 82px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* Georgian Market */
+
+position: absolute;
+width: 182px;
+height: 20px;
+left: -48px;
+top: 123px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* Order */
+
+position: absolute;
+width: 61px;
+height: 20px;
+left: 73px;
+top: 164px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* Partners */
+
+position: absolute;
+width: 95px;
+height: 20px;
+left: 39px;
+top: 205px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* Сontacts */
+
+position: absolute;
+width: 99px;
+height: 20px;
+left: 35px;
+top: 246px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* FAQ */
+
+position: absolute;
+width: 99px;
+height: 20px;
+left: 35px;
+top: 287px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* Frame 18 */
+
+position: absolute;
+width: 36.96px;
+height: 22px;
+left: 97px;
+top: 328px;
+
+
+
+/* EN */
+
+position: absolute;
+width: 28px;
+height: 20px;
+left: -2px;
+top: 0px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Vector 29 */
+
+position: absolute;
+width: 8.96px;
+height: 4.46px;
+left: 28px;
+top: 8.77px;
+
+background: #FFFFFF;
+border: 2px solid #FFFFFF;
+
+
+/* Group 1321318100 */
+
+position: absolute;
+width: 260px;
+height: 100px;
+left: 1660px;
+top: 646px;
+
+
+
+/* Rectangle 252 */
+
+position: absolute;
+width: 260px;
+height: 100px;
+right: 0px;
+top: 646px;
+
+background: #314239;
+/* Blur/Glass */
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 4px;
+
+
+/* More */
+
+position: absolute;
+width: 65.86px;
+height: 24.68px;
+left: 1756.78px;
+top: 684px;
+
+font-family: 'Prompt';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #F4D74B;
+
+
+
+/* Group 1321318115 */
+
+position: absolute;
+width: 260px;
+height: 100px;
+left: 649px;
+top: 1440px;
+
+
+
+/* Rectangle 252 */
+
+position: absolute;
+width: 260px;
+height: 100px;
+right: 1011px;
+top: 1440px;
+
+background: #314239;
+/* Blur/Glass */
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 4px;
+
+
+/* More */
+
+position: absolute;
+width: 65.86px;
+height: 24.68px;
+left: 745.78px;
+top: 1478px;
+
+font-family: 'Prompt';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #F4D74B;
+
+
+
+/* Rectangle 339 */
+
+position: absolute;
+width: 1936px;
+height: 1048px;
+left: -10px;
+top: 800px;
+
+background: #475F52;
+
+
+/* Founded in 2025, Global Trading Axis 
+is a specialized export and trading 
+company focused on promoting and supplying 
+high-quality food and beverage products 
+from the Caucasus to international markets, 
+with a primary focus on the Gulf Cooperation Council (GCC) region */
+
+position: absolute;
+width: 609px;
+height: 193px;
+left: calc(50% - 609px/2 - 615.5px);
+top: 1024px;
+
+/* 1 */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+
+color: #FFFFFF;
+
+
+
+/* Our company serves as a strategic link between Caucasian producers and global buyers, helping local manufacturers effectively, reliably, and professionally present their products in promising markets */
+
+position: absolute;
+width: 927px;
+height: 86px;
+left: calc(50% - 927px/2 + 161.5px);
+top: 1257px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+
+color: #FFFFFF;
+
+
+
+/* Learn more about our activities */
+
+position: absolute;
+width: 478px;
+height: 28px;
+left: calc(50% - 478px/2 - 63px);
+top: 1528px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+
+color: #FFFFFF;
+
+
+
+/* Our mission is to connect the natural wealth of the Caucasus with global demand, ensuring the supply of high-quality, authentic Caucasian products to international markets through a reliable, transparent, and strategically designed export channel */
+
+position: absolute;
+width: 1047px;
+height: 115px;
+left: calc(50% - 1047px/2 + 221.5px);
+top: 1383px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+
+color: #F4D74B;
+
+
+
+/* About the Company */
+
+position: absolute;
+width: 595px;
+height: 64px;
+left: calc(50% - 595px/2 - 0.5px);
+top: 900px;
+
+/* Заголовок */
+font-family: 'Prompt';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 91px;
+
+color: #FFFFFF;
+
+
+
+/* GLOBAL AXIS (1) (1) 1 */
+
+position: absolute;
+width: 2239px;
+height: 653px;
+left: -189px;
+top: 1766px;
+
+background: linear-gradient(96.94deg, rgba(0, 0, 0, 0) 28%, rgba(0, 0, 0, 0.4) 55.15%), url(GLOBAL AXIS (1) (1).png);
+border-radius: 4px;
+
+
+/* Why choose us */
+
+position: absolute;
+width: 444px;
+height: 64px;
+left: calc(50% - 444px/2 - 30px);
+top: 1986px;
+
+/* Заголовок */
+font-family: 'Prompt';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 91px;
+
+color: #FFFFFF;
+
+
+
+/* A Focus on Premium, Natural Caucasus Products */
+
+position: absolute;
+width: 770px;
+height: 36px;
+left: calc(50% - 770px/2);
+top: 2080px;
+
+/* Подзаголовок */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 120%;
+/* identical to box height, or 36px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Frame 106 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 60px;
+
+position: absolute;
+width: 80px;
+height: 20px;
+left: 1800px;
+top: 2128px;
+
+
+
+/* Vector 48 */
+
+width: 10px;
+height: 20px;
+
+border: 3px solid #F4D74B;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector 47 */
+
+width: 10px;
+height: 20px;
+
+border: 3px solid #F4D74B;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 107 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 16px;
+
+position: absolute;
+width: 447px;
+height: 273px;
+left: 498px;
+top: 2188px;
+
+background: rgba(49, 66, 57, 0.4);
+/* 1 */
+backdrop-filter: blur(10.8px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 4px;
+
+
+/* Focus on high-quality, natural Caucasianproducts */
+
+width: 349px;
+height: 58px;
+
+/* text1 */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* hugeicons:natural-food */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.34%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 62.52%;
+top: 8.33%;
+bottom: 50.97%;
+
+border: 2.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 70.84%;
+top: 33.33%;
+bottom: 16.67%;
+
+border: 2.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.34%;
+top: 37.5%;
+bottom: 16.67%;
+
+border: 2.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 41.67%;
+top: 58.33%;
+bottom: 8.33%;
+
+border: 2.5px solid #FFFFFF;
+
+
+/* Frame 108 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 16px;
+
+position: absolute;
+width: 448px;
+height: 273px;
+left: 965px;
+top: 2188px;
+
+background: rgba(49, 66, 57, 0.4);
+border-radius: 4px;
+
+
+/* Strong Network Across the Middle East */
+
+width: 310px;
+height: 58px;
+
+/* text1 */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* gis:network-o */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Frame 109 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 16px;
+
+position: absolute;
+width: 447px;
+height: 273px;
+left: 1433px;
+top: 2188px;
+
+background: rgba(49, 66, 57, 0.4);
+border-radius: 4px;
+
+
+/* End-to-End  Export Management */
+
+width: 327px;
+height: 58px;
+
+/* text1 */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* fluent-mdl2:workforce-management */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 6.25%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Frame 111 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 16px;
+
+position: absolute;
+width: 438px;
+height: 273px;
+left: 40px;
+top: 2188px;
+
+background: rgba(49, 66, 57, 0.4);
+/* 1 */
+backdrop-filter: blur(10.8px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 4px;
+
+
+/* Deep Understanding of Both Sides — Georgia and GCC */
+
+width: 389px;
+height: 58px;
+
+/* text1 */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* fluent-mdl2:world */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Group 1321318101 */
+
+position: absolute;
+width: 260px;
+height: 60px;
+left: 658px;
+top: 1606px;
+
+
+
+/* Rectangle 252 */
+
+position: absolute;
+width: 260px;
+height: 60px;
+right: 1002px;
+top: 1606px;
+
+background: #FFFFFF;
+/* Blur/Glass */
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 4px;
+
+
+/* More */
+
+position: absolute;
+width: 66px;
+height: 27px;
+left: 755px;
+top: 1620px;
+
+font-family: 'Prompt';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* or 29px */
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #F4D74B;
+
